@@ -20,7 +20,7 @@ ABOUT ABDUL BASIT:
 - 17 years of telecom and data engineering experience, with 3-4 years focused specifically on AI automation
 - MS in Data Science from Bellevue University
 - Certified: Ed Donner's AI Engineer Agentic Track (UC-b25c9048-6aff-44d6-b988-cf69eab84ea8)
-- Currently completing Ed Donner's n8n Agent course (Day 4, Section 45)
+- Certified: Ed Donner's n8n AI Agent course
 
 FREELANCE CONSULTING:
 - Rate: $90/hr, less than 20 hours per week (part-time only, alongside Verizon role)
